@@ -2,7 +2,7 @@
   "name": "webpack-setup",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "privare": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kwesiObuobi/webpack-setup/issues"
   },
-  "homepage": "https://github.com/kwesiObuobi/webpack-setup#readme"
+  "homepage": "https://github.com/kwesiObuobi/webpack-setup#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
