@@ -19,5 +19,8 @@
   "homepage": "https://github.com/kwesiObuobi/webpack-setup#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
   }
 }
